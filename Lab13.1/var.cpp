@@ -1,3 +1,4 @@
+//var.cpp
 namespace nsVar
 {
 	int n;

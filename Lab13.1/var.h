@@ -1,3 +1,4 @@
+//var.h
 #pragma once
 
 namespace nsVar {
